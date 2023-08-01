@@ -10,7 +10,6 @@ The primary objective of the Iowa Liquor Sales project is to utilize data analys
 
 #### 1. Comprehensive Data Profiling: https://github.com/AkhilKaundinya/Iowa-Liquor-Sales/blob/main/Altreyx/Iowa_Data_Profiling_Staging.yxmd
 Conduct in-depth data profiling with Alteryx to gain a comprehensive understanding of the Iowa liquor sales dataset, ensuring data quality and identifying relevant insights.
-https://github.com/AkhilKaundinya/Iowa-Liquor-Sales/blob/main/Altreyx/Iowa_Data_Profiling_Staging.yxmd
 
 #### 2. Dynamic Dimensional Modeling: https://github.com/AkhilKaundinya/Iowa-Liquor-Sales/tree/main/ER
 Create a dynamic dimensional model using ER/Studio, allowing for flexible and insightful analysis of liquor sales data across various dimensions and hierarchies.
