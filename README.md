@@ -10,15 +10,19 @@ The primary objective of the Iowa Liquor Sales project is to utilize data analys
 
 #### 1. Comprehensive Data Profiling: 
 Conduct in-depth data profiling with Alteryx to gain a comprehensive understanding of the Iowa liquor sales dataset, ensuring data quality and identifying relevant insights.
+https://github.com/AkhilKaundinya/Iowa-Liquor-Sales/blob/main/Altreyx/Iowa_Data_Profiling_Staging.yxmd
 
 #### 2. Dynamic Dimensional Modeling: 
 Create a dynamic dimensional model using ER/Studio, allowing for flexible and insightful analysis of liquor sales data across various dimensions and hierarchies.
+https://github.com/AkhilKaundinya/Iowa-Liquor-Sales/tree/main/ER
 
-#### 3. Streamlined Data Integration: 
-Streamline data integration using Talend and Alteryx to ensure robust profiling of the two staging database management systems (DBMS) and facilitate efficient data retrieval for analysis.
+#### 3. Streamlined Data Integration: https://github.com/AkhilKaundinya/Iowa-Liquor-Sales/tree/main/Altreyx
+Design Data Integration Pipe lines and Streamline data integration using Alteryx for further analysis.
+https://github.com/AkhilKaundinya/Iowa-Liquor-Sales/tree/main/Altreyx
 
-##### 4. Interactive Dashboards: 
+##### 4. Interactive Dashboards: https://github.com/AkhilKaundinya/Iowa-Liquor-Sales/blob/main/PowerBI_Iowa_Sales_analysis.pdf
 Develop interactive dashboards with Power BI and Tableau, enabling stakeholders to make data-driven decisions based on real-time sales performance and trends. These dashboards will support licensees, suppliers, and policymakers in optimizing their strategies to boost profitability and address market demands effectively.
+
 
 By achieving these objectives, the Iowa Liquor Sales project aims to provide valuable insights and actionable recommendations to the liquor industry in Iowa. The collaboration of data analysis, dimensional modeling, and interactive visualization will empower stakeholders to make informed decisions, drive growth, and improve the overall liquor sales landscape in the state.
 
